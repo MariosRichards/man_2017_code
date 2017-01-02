@@ -1,0 +1,5 @@
+conda create --name man_2017 numpy pandas scipy scikit-learn matplotlib seaborn
+
+activate man_2017
+
+jupyter notebook

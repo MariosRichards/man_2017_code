@@ -1,0 +1,84 @@
+,new_column_name,original_column_name
+0,timestamp,Timestamp
+1,how_would_you_describe_your,How would you describe your gender?
+2,which_of_the_following_would,Which of the following would you describe yourself as?
+3,where_do_you_live,Where do you live?
+4,what_is_your_age,What is your age?
+5,do_you_believe_that_a_secret,Do you believe that a secret cabal of lizard-people rule the world?
+6,has_the_confidence_that_if,"A man has the confidence that if something is broken, it can be fixed."
+7,cultivates_as_many_interests_as,A man cultivates as many interests as is possible.
+8,knows_everything_about,"A man knows everything about something, and something about everything."
+9,appreciates_beauty_in_all_of,A man appreciates beauty in all of its forms.
+10,uses_his_wealth_and_social,A man uses his wealth and social standing for the benefit of others.
+11,does_what_he_says_he_will_do,"A man does what he says he will do, and does not make promises he cannot keep."
+12,may_take_a_beating_of_whatever,"A man may take a beating, of whatever kind, but he gets back up afterwards."
+13,shows_courtesy_by_holding_doors,"A man shows courtesy by holding doors open, pulling out chairs, and allowing others to choose before him."
+14,is_willing_to_endure_suffering,A man is willing to endure suffering gladly in order to accomplish his goals.
+15,protects_those_who_are_less,A man protects those who are less strong than him.
+16,arrives_to_occasions_on_time,A man arrives to occasions on time.
+17,always_looks_to_improve_himself,A man always looks to improve himself.
+18,is_willing_to_challenge_the,"A man is willing to challenge the status quo, if he has a better alternative."
+19,shows_sportsmanship_and_does,"A man shows sportsmanship, and does not harbour grudges against those that best him."
+20,speaks_his_mind,A man speaks his mind.
+21,settles_disputes_by_applying,A man settles disputes by applying his principles equally to any situation.
+22,is_financially_independent,A man is financially independent.
+23,doesn_t_let_the_little,A man doesn't let the little frustrations of life get to him.
+24,is_unashamed_of_his_sexual,A man is unashamed of his sexual desires.
+25,is_willing_and_able_to_please,A man is willing and able to please his sexual partners.
+26,does_not_make_demands_of_his,A man does not make demands of his friends.
+27,seeks_advice_when_he_wants_to,A man seeks advice when he wants to find a solution.
+28,does_not_rely_on_the_kindness,A man does not rely on the kindness of others.
+29,is_quick_to_respond_in_a_time,A man is quick to respond in a time of crisis.
+30,does_not_let_fear_or,A man does not let fear or intimidation change his intent.
+31,powers_through_a_problem_when,A man powers through a problem when grace or finesse fails.
+32,cultivates_practical_skills_and,"A man cultivates practical skills, and is ready to use them."
+33,puts_the_lives_of_others_over,A man puts the lives of others over himself.
+34,maintains_his_physical_strength,A man maintains his physical strength and fitness.
+35,would_rather_try_and_fail_than,A man would rather try and fail than miss their chance at success.
+36,has_a_plan_to_get_or_do_what_it,"A man has a plan to get, or do, what it is they want."
+37,does_not_perceive_something_as,A man does not perceive something as a threat to him unless it is a real danger.
+38,has_a_cause_he_believes_in_and,"A man has a cause he believes in and takes risks for, and he would gladly suffer because of it."
+39,does_not_lie,A man does not lie.
+40,cultivates_a_good_sense_of,A man cultivates a good sense of humour.
+41,channels_his_anger_and,A man channels his anger and frustrations to productive ends.
+42,does_not_need_to_prove_himself,A man does not need to prove himself to others.
+43,prioritises_clarity_and,A man prioritises clarity and directness over politeness and people-pleasing.
+44,values_competition_and_embraces,"A man values competition, and embraces it as a chance to better himself."
+45,is_open_clear_and_consistent_in,"A man is open, clear, and consistent in his values."
+46,does_not_trouble_others_with,A man does not trouble others with his feelings until he has made sense of them himself.
+47,is_quick_to_form_an_opinion_and,"A man is quick to form an opinion, and quick to defend it."
+48,is_always_keen_to_explore_and,"A man is always keen to explore, and seeks things unfamiliar to him."
+49,is_comfortable_with_who_he_is,A man is comfortable with who he is.
+50,makes_the_first_move_sexually,"A man makes the first move, sexually and romantically."
+51,has_a_penis,A man has a penis.
+52,keeps_his_feelings_to_himself,A man keeps his feelings to himself.
+53,has_the_confidence_to_speak,"A man has the confidence to speak authoritatively, unless he is proven wrong."
+54,puts_his_bonds_with_other_men,A man puts his bonds with other men first.
+55,accepts_survival_of_the_fittest,"A man accepts survival of the fittest, and does not let his neighbour's failures taint his successes."
+56,worth_is_measured_by_his,A man's worth is measured by his accomplishments.
+57,does_man_s_work_and_lets_women,"A man does man's work, and lets women do women's work."
+58,is_able_to_provide_financially,A man is able to provide financially for himself and others.
+59,dresses_practically,A man dresses practically.
+60,takes_the_lead_in_bed,A man takes the lead in bed.
+61,eats_whatever_food_he_wants,A man eats whatever food he wants.
+62,puts_the_needs_and_feelings_of,A man puts the needs and feelings of others before himself.
+63,does_not_let_his_feelings_cloud,A man does not let his feelings cloud his judgement.
+64,is_secure_in_his_convictions,"A man is secure in his convictions, and is not easily swayed by the words of others."
+65,is_ready_to_use_physical_force,A man is ready to use physical force or violence where it is necessary.
+66,cherishes_and_values_the,A man cherishes and values the qualities of women.
+67,will_defend_his_integrity_if_it,A man will defend his integrity if it is questioned.
+68,helps_other_men_to_be_good_men,A man helps other men to be good men.
+69,does_not_speak_ill_of_others,A man does not speak ill of others.
+70,is_faithful_to_his_roots,A man is faithful to his roots.
+71,lives_in_the_present,A man lives in the present.
+72,feedback,Feedback
+73,socialist,Socialist
+74,liberal,Liberal
+75,feminist,Feminist
+76,egalitarian,Egalitarian
+77,libertarian,Libertarian
+78,anarchist,Anarchist
+79,moderate,Moderate
+80,conservative,Conservative
+81,men_s_rights_activist,Men's Rights Activist
+82,feedback_length,Feedback_length
